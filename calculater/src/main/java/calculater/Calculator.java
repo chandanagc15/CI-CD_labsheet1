@@ -40,3 +40,4 @@ public class Calculator {
        input.close();
    }
 }
+System.out.println("Thank you for using the calculator!");
